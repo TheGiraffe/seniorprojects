@@ -1,8 +1,8 @@
-@import url(css/fonts/CaviarDreams/stylesheet.css);
-@import url(css/fonts/uppereastside/stylesheet.css);
-@import url(css/icons/foundation-icons.css);
+@import url(/web/20181026111714cs_/http://seniorprojects.sophiaisfabulous.com/css/fonts/CaviarDreams/stylesheet.css);
+@import url(/web/20181026111714cs_/http://seniorprojects.sophiaisfabulous.com/css/fonts/uppereastside/stylesheet.css);
+@import url(/web/20181026111714cs_/http://seniorprojects.sophiaisfabulous.com/css/icons/foundation-icons.css);
 body{
-  background-image: url("images/background.gif");
+  background-image: url("/web/20181026111714im_/http://seniorprojects.sophiaisfabulous.com/images/Geekscapes/vurt___mathemagician_by_5ofnovember-d93kugl.jpg");
   background-position: top center;
   background-size:cover;
   background-color: black;
@@ -309,7 +309,7 @@ height: inherit;
 width: inherit;
 background-size: 100%;
 color: transparent;
-background-image: url("../images/productsserviceslanding.png");
+background-image: url("/web/20181026111714im_/http://seniorprojects.sophiaisfabulous.com/images/productsserviceslanding.png");
 box-shadow: 5px 5px #e8eaed;
 }
 
@@ -358,14 +358,14 @@ margin-right: -20px;
   grid-column: 1 / 2;
   grid-row: 1/3;
   border-radius: 50%;
-  background-image: url("images/profilelowpoly2.png");
+  background-image: url("/web/20181026111714im_/http://seniorprojects.sophiaisfabulous.com/images/profilelowpoly2.png");
   background-position: center;
   background-size: cover;
   border-style: dotted;
   border-width: thin;
 }
 .profile:hover{
-  background-image: url("images/profile.png");
+  background-image: url("/web/20181026111714im_/http://seniorprojects.sophiaisfabulous.com/images/profile.png");
   background-position: center;
   background-size: cover;
   cursor: pointer;
@@ -551,3 +551,24 @@ margin-bottom: 0px;
 #smallertextcontent{
   font-size: 12px;
 }
+
+/*
+     FILE ARCHIVED ON 11:17:14 Oct 26, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:28:59 Apr 17, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1.056
+  exclusion.robots: 0.113
+  exclusion.robots.policy: 0.095
+  cdx.remote: 0.125
+  esindex: 0.018
+  LoadShardBlock: 87.635 (3)
+  PetaboxLoader3.datanode: 96.712 (4)
+  load_resource: 113.593
+  PetaboxLoader3.resolve: 85.174
+*/
